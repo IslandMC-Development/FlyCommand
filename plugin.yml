@@ -1,19 +1,19 @@
 ---
-name: BlazinFly
-main: iiFlamiinBlaze\BlazinFly\BlazinFly
+name: FlyCommand
+main: IslandMC-Development/FlyCommand/src/I
 description: An advanced survival fly plugin!
 version: 1.8.7
 api:
 - 3.0.0
-author: iiFlamiinBlaze
+author: IslandMCDevs
 commands:
   fly:
     description: Command which allows flight when in Survival Mode!
 permissions:
-  blazinfly.command:
-    description: BlazinFly command permission
+  fly.command:
+    description: Fly command permission
     default: op
-  blazinfly.other:
+  fly.other:
     description: Allow you to activate fly for other players
     default: op
 ...

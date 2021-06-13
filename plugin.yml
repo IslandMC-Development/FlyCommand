@@ -1,6 +1,6 @@
 ---
 name: FlyCommand
-main: IslandMCDevs/FlyCommand/src/IslandMCDevs/FlyCommand/main
+main: src/IslandMCDevs/main
 description: An advanced survival fly plugin!
 version: 1.8.7
 api:

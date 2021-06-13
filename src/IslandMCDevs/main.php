@@ -1,7 +1,7 @@
 <?php 
 declare(strict_types=1);
 
-namespace IslandMCDevs\FlyCommand
+namespace src\IslandMCDevs
 use pocketmine\entity\Entity;
 use pocketmine\event\entity\EntityLevelChangeEvent;
 use pocketmine\plugin\PluginBase;

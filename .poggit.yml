@@ -1,0 +1,8 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/IslandMC-Development/FlyCommand
+build-by-default: true
+branches:
+- main
+projects:
+  FlyCommand:
+    path: ""
+...

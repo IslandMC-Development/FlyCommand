@@ -12,7 +12,7 @@ use pocketmine\event\entity\EntityDamageEvent;
 use pocketmine\event\entity\EntityDamageByEntityEvent;
 use pocketmine\utils\TextFormat;
 
-class BlazinFly extends PluginBase implements Listener{
+class FlyCommand extends PluginBase implements Listener{
 
 	const PREFIX = TextFormat::AQUA . "Fly-Command" . TextFormat::GOLD . " > ";
 	const VERSION = "v1.0.1";
